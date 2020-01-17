@@ -5,4 +5,6 @@ Dummy repo for tracking issues on the chapter master application
 
 Please check the existing open issues to see if your feedback has already been submitted by someone else before opening a new issue.
 
-When creating your issue, please include a relevant label (found on the right side)
+When creating your issue, please include a relevant label (found on the right side).
+
+Be as descriptive as possible
